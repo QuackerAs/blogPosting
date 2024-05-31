@@ -1,46 +1,45 @@
 body {
-    font-family: "Press Start 2P", sans-serif;
-    font-size: 9px;
-    background-size: cover;
-    background-color: aquamarine;
-    text-align: center;
-    font-size: x-small;
-    padding: 50px;
-    height: 100%;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+  font-family: "Press Start 2P", sans-serif;
+  font-size: 9px;
+  background-size: cover;
+  background-color: aquamarine;
+  text-align: center;
+  font-size: x-small;
+  padding: 50px;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .titulo {
-    width: 100px;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 250px;
-    background-color: #7878e5;
-    box-sizing: border-box;
-    border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  background-color: #7878e5;
+  box-sizing: border-box;
+  border-radius: 10px;
 }
 
-
 .container {
-    display: flex;
-    font-size: medium;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-    background-color: transparent;
-    flex-direction: column;
-    box-sizing: border-box;
-    border: double;
-    border-radius: 0px 107px 26px 75px;
-    -moz-border-radius: 0px 107px 26px 75px;
-    -webkit-border-radius: 0px 107px 26px 75px;
-    border: 9px ridge #000000;
-    padding: 60px;
-    box-shadow: 0px 2px 20px 0px rgba(2, 2, 2, 0.5);
+  display: flex;
+  font-size: medium;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  background-color: transparent;
+  flex-direction: column;
+  box-sizing: border-box;
+  border: double;
+  border-radius: 0px 107px 26px 75px;
+  -moz-border-radius: 0px 107px 26px 75px;
+  -webkit-border-radius: 0px 107px 26px 75px;
+  border: 9px ridge #000000;
+  padding: 60px;
+  box-shadow: 0px 2px 20px 0px rgba(2, 2, 2, 0.5);
 }
